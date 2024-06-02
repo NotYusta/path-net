@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="706px" height="707px" viewBox="0 0 706 707" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>diamond-handpicked</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-14.087%" y1="65.426%" x2="95.915%" y2="78.556%" id="linearGradient-1">
+            <stop stop-color="#224AD5" offset="0%"/>
+            <stop stop-color="#229BD5" offset="37.982%"/>
+            <stop stop-color="#1EC5C0" offset="100%"/>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.592">
+        <g id="diamond-handpicked" fill="url(#linearGradient-1)">
+            <polygon id="Path" transform="translate(353.171750, 353.615767) rotate(45.000000) translate(-353.171750, -353.615767) " points="103.67175 104.115767 602.67175 104.115767 602.67175 603.115767 103.67175 603.115767"/>
+        </g>
+    </g>
+</svg>

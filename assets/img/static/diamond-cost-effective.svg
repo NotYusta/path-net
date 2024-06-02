@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="565" height="566" viewBox="0 0 565 566">
+    <defs>
+        <linearGradient id="a" x1="87.789%" x2="0%" y1="94.143%" y2="4.985%">
+            <stop offset="0%" stop-color="#224AD5"/>
+            <stop offset="37.982%" stop-color="#229BD5"/>
+            <stop offset="100%" stop-color="#1EC5C0"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#234E5F" d="M405.5.401L564.599 159.5 405.5 318.599 246.401 159.5z" opacity=".367"/>
+        <path stroke="url(#a)" d="M612.084 771.656L.056 159.628" opacity=".721" transform="rotate(90 203 362.444)"/>
+        <g fill="#08C5FA" transform="translate(351 106)">
+            <path d="M54.536 24.444l3.535 3.535-3.535 3.536L51 27.979zM54.536 75.444l3.535 3.535-3.535 3.536L51 78.979zM79.536 49.444l3.535 3.535-3.535 3.536L76 52.979zM28.536 49.444l3.535 3.535-3.535 3.536L25 52.979zM2.121 50.443l2.121 2.122-2.121 2.121L0 52.565zM106.121 50.443l2.121 2.122-2.121 2.121L104 52.565zM54.121 102.443l2.121 2.122-2.121 2.121L52 104.565zM54.121.272l2.122 2.12-2.122 2.122L52 2.393z"/>
+            <circle cx="67" cy="41" r="3"/>
+            <circle cx="67" cy="66" r="3"/>
+            <circle cx="41" cy="41" r="3"/>
+            <circle cx="41" cy="66" r="3"/>
+            <circle cx="16" cy="66" r="2"/>
+            <circle cx="93" cy="66" r="2"/>
+            <circle cx="16" cy="41" r="2"/>
+            <circle cx="93" cy="41" r="2"/>
+            <circle cx="80" cy="28" r="2"/>
+            <circle cx="30.071" cy="28" r="2"/>
+            <circle cx="80" cy="79" r="2"/>
+            <circle cx="30.071" cy="79" r="2"/>
+            <circle cx="67" cy="92" r="2"/>
+            <circle cx="67" cy="14.958" r="2"/>
+            <circle cx="42" cy="92" r="2"/>
+            <circle cx="42" cy="14.958" r="2"/>
+            <path d="M54.07 45.444l7.072 7.07-7.071 7.072L47 52.515z"/>
+        </g>
+    </g>
+</svg>
