@@ -102,7 +102,7 @@ header .container .button-911:hover {
   overflow: hidden;
   content: " ";
   transform: translateX(-40%);
-  background: url(/assets/img/lines.svg) no-repeat 75% 0;
+  background: url("/assets/img/lines.svg") no-repeat 75% 0;
   background-position-x: 75%;
   background-position-y: 0px;
   background-size: auto;
